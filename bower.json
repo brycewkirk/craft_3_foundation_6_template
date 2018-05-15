@@ -1,0 +1,22 @@
+{
+  "name": "craft_3_foundation_6_template",
+  "version": "1.0.0",
+  "authors": [
+    "Bryce Kirk <info@brycekirk.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "http://brycekirk.com",
+  "dependencies": {
+    "foundation-sites": "~6.4.0",
+    "motion-ui": "~1.2.3"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}

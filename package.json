@@ -1,0 +1,24 @@
+{
+  "name": "craft_3_foundation_6_template",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-load-plugins": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp sass"
+  },
+  "author": "Bryce Kirk <info@brycekirk.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "gulp-autoprefixer": "^3.1.0"
+  }
+}
